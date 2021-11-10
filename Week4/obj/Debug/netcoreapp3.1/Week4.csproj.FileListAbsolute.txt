@@ -1,0 +1,28 @@
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\bin\Debug\netcoreapp3.1\Week4.exe
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\bin\Debug\netcoreapp3.1\Week4.deps.json
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\bin\Debug\netcoreapp3.1\Week4.runtimeconfig.json
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\bin\Debug\netcoreapp3.1\Week4.runtimeconfig.dev.json
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\bin\Debug\netcoreapp3.1\Week4.dll
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\bin\Debug\netcoreapp3.1\Week4.pdb
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.AssemblyInfo.cs
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.dll
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.pdb
+C:\Users\hp\Desktop\New folder (2)\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.genruntimeconfig.cache
+C:\Users\hp\Desktop\Week4\Week4\bin\Debug\netcoreapp3.1\Week4.exe
+C:\Users\hp\Desktop\Week4\Week4\bin\Debug\netcoreapp3.1\Week4.deps.json
+C:\Users\hp\Desktop\Week4\Week4\bin\Debug\netcoreapp3.1\Week4.runtimeconfig.json
+C:\Users\hp\Desktop\Week4\Week4\bin\Debug\netcoreapp3.1\Week4.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Week4\Week4\bin\Debug\netcoreapp3.1\Week4.dll
+C:\Users\hp\Desktop\Week4\Week4\bin\Debug\netcoreapp3.1\Week4.pdb
+C:\Users\hp\Desktop\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.AssemblyInfo.cs
+C:\Users\hp\Desktop\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.dll
+C:\Users\hp\Desktop\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.pdb
+C:\Users\hp\Desktop\Week4\Week4\obj\Debug\netcoreapp3.1\Week4.genruntimeconfig.cache
